@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.36",
-    "revision":  20,
-    "assetUrl":  "https://orbit-production.innocentgh10.workers.dev/desktop-updates/assets/1.1.36/orbit-patch-1.1.36-r20/ORBIT-1.1.36-patch-r20.asar",
-    "sha256":  "9525a93a15ac5b9e26d6d6cc784f5920bc9a20a07768a190a68379edd147a73d"
+  "version": "1.1.36",
+  "revision": 21,
+  "assetUrl": "https://orbit-production.innocentgh10.workers.dev/desktop-updates/assets/1.1.36/orbit-patch-1.1.36-r21/ORBIT-1.1.36-patch-r21.asar",
+  "sha256": "feeee38c2cdec1c593af3b101aa045d5ee65cc2ce2429ca0fed39e8d642e2db1"
 }
